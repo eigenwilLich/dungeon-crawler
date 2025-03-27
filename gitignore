@@ -1,0 +1,28 @@
+
+# Bytecode-Dateien
+__pycache__/
+*.py[cod]
+
+# Editor-/Systemdateien
+.DS_Store
+Thumbs.db
+
+# Temporäre Dateien
+*.log
+*.tmp
+*.swp
+
+# Pygame oder SDL-spezifische Ausgaben (je nach System)
+*.bmp
+*.png
+*.wav
+
+# VSCode / PyCharm-Projektdateien
+.vscode/
+.idea/
+
+# Testcache
+.pytest_cache/
+
+# Virtuelle Umgebung (falls verwendet)
+venv/
